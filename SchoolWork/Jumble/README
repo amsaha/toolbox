@@ -1,0 +1,3 @@
+This directory has code to jumble a set of words.
+
+How to run: python jumble.py <wordfile.txt>
