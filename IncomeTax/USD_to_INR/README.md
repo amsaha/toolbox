@@ -6,4 +6,4 @@ INR conversion has to be done for the exact date when the transaction was done.
 Here is how a sample output looks like when run on the
 [sample date file](./date.txt):
 
-![Sample Output](./sample_output.png)
+ <img src="./sample_output.png" alt="Sample Output" width="600"> 
